@@ -1,0 +1,27 @@
+{
+  "name": "Ebenezer",
+  "version": "1.0.0",
+  "description": "Ebenezer web site project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alexisvt/Ebenezer.git"
+  },
+  "keywords": [
+    "Ebenezer",
+    "website",
+    "School"
+  ],
+  "author": "Alexis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexisvt/Ebenezer/issues"
+  },
+  "homepage": "https://github.com/Alexisvt/Ebenezer",
+  "devDependencies": {
+    "express": "^4.11.2"
+  }
+}
